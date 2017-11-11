@@ -1,4 +1,4 @@
-# lambda-cognito/sign-up
+# SignUp Faas
 
 
 To test you will need de lambda-local npm package installed:
